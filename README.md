@@ -1,9 +1,9 @@
 # Ayuda de blablaqual
-Blablaqual es una herramienta que te ayudará a organizar viajes en coche de grupos numerosos.
+Blablaqual es una herramienta destinada a facilitar la organización de viajes en coche de grupos numerosos.
 
 Esta aplicación nació para evitar la confusión generada cada vez que se intentaba organizar este tipo de traslados a través de un grupo de Whatsapp.
 
-Básicamente, se trata de una ventan con un listado de personas (pasajeros) a las que llevar con el objetivo de ir ofreciendo coches hasta cubrir la totalidad de plazas necesarias.
+Básicamente, se trata de una ventana con un listado de personas (pasajeros a los que trasladar) con el objetivo de ir ofreciendo coches hasta cubrir la totalidad de las plazas requeridas.
 
 ## Funcionamiento
 En cada grupo únicamente es necesario que se dé de alta en la aplicación un usuario quien realiza las funciones de administrador de grupo. El resto podrán acceder a través de vínculos privados.
